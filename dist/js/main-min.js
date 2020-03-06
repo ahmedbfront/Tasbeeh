@@ -1,0 +1,1 @@
+function addone(){var e=document.getElementById("thisone").innerHTML;e++,document.getElementById("thisone").innerHTML=e}function reset(){document.getElementById("thisone").innerHTML=0}
